@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,69 +40,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Recorded Future](https://www.recordedfuture.com/)**  
-
-  Leading intelligence cloud that continuously collects and analyzes open, dark-web, and technical sources to deliver risk scores, curated intelligence, and actionable insights.
-
-
-
-- **[Anomali (ThreatStream)](https://www.anomali.com/)**  
-
-  Enterprise TIP focused on high-volume IOC management, automated feed ingestion, confidence scoring, and integration with SIEM/EDR/SOAR.
-
-
-
-- **[Mandiant Threat Intelligence / Mandiant Advantage](https://www.mandiant.com/)**  
-
-  Frontline intelligence and platform capabilities from Mandiant (Google Cloud), strong on adversary tracking, incident context, and strategic/tactical reporting.
-
-
-
-- **[CrowdStrike Falcon Intelligence](https://www.crowdstrike.com/)**  
-
-  Threat intelligence integrated with the Falcon platform, providing adversary insights, IOC enrichment, and automated scoring tied to endpoint telemetry.
-
-
-
-- **[SOCRadar](https://socradar.io/)**  
-
-  Extended threat intelligence platform covering digital risk protection, dark-web monitoring, and operational intelligence for organizations of various sizes.
-
-
-
-- **[Intel 471](https://intel471.com/)**  
-
-  Adversary-centric intelligence focused on cybercrime actors, infrastructure, and underground ecosystems.
-
-
-
-- **[Flashpoint](https://flashpoint.io/)**  
-
-  Threat intelligence and risk data covering cyber, physical, and fraud threats drawn from deep and dark-web sources.
-
-
-
-- **[ThreatConnect](https://threatconnect.com/)**  
-
-  TIP with strong analyst workflow, intelligence lifecycle management, and native playbook/automation capabilities.
-
-
-
-- **[Cyware](https://www.cyware.com/)**  
-
-  Threat intelligence and security orchestration platform emphasizing sharing, collaboration, and automated operationalization of intelligence.
-
-
-
-- **[EclecticIQ](https://www.eclecticiq.com/)**  
-
-  Intelligence-driven security platform and TIP focused on structured intelligence management and analyst productivity.
-
-
-
-- **[ThreatQuotient (ThreatQ)](https://www.threatq.com/)**  
-
-  Threat intelligence platform centered on prioritization, scoring, and integrating intelligence into security operations workflows.
+| Platform | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Recorded Future](https://www.recordedfuture.com/)** | Cloud-based Threat Intelligence Cloud delivering real-time adversary analysis, SecOps intelligence, vulnerability prioritization, and dark web tracking. | Starts at ~$25,000/year (entry-level module); enterprise packages range $100,000–$250,000+/year | **No permanent free tier**; offers a 30-day free trial for SIEM integrations & free Express browser extension for basic lookups |
+| **[Anomali (ThreatStream)](https://www.anomali.com/)** | High-volume IOC lifecycle management, multi-source feed ingestion, machine learning scoring, and bi-directional SIEM/SOAR orchestration. | Starts at ~$15,000–$25,000/year for base feeds/seats; enterprise deployments average ~$93,000–$150,000/year | **No permanent free tier**; 14-to-30-day guided POC trial upon sales qualification with capped indicator ingestion |
+| **[Mandiant Threat Intelligence](https://www.mandiant.com/)** | Frontline breach intelligence, adversary attribution, vulnerability intelligence, and strategic reporting powered by Google Cloud / Mandiant responders. | Starts at ~$40,000/year (Mandiant Advantage standard tier); enterprise suites scale higher based on seats | **Free Forever Tier** with limited access to curated actor summaries & public IOCs; 14-day trial for full premium intelligence (30-day trial for ASM) |
+| **[CrowdStrike Falcon Intelligence](https://www.crowdstrike.com/)** | Threat intelligence unified with Falcon endpoint telemetry, automated sandbox malware detonation, IOC enrichment, and adversary profiles. | Starts at $99.99/device/year (Falcon Pro bundle, 5-device min. = $499.95/year); standalone intel modules start at ~$47/device/year | **No permanent free tier**; 15-day full-featured free trial (no credit card required, up to 100 endpoints) including integrated intel & automated sandbox detonations |
+| **[SOCRadar](https://socradar.io/)** | Extended Threat Intelligence (XTI) combining external attack surface management (EASM), digital risk protection (DRP), and dark web monitoring. | Starts at $7,900/year (~$658/month for Essential tier; Business tier starts at $14,750/year) | **Free Forever Community Edition** with monthly search quota for Threat Investigation & 1 domain monitoring (up to 50 assets); 7-to-14-day free trial for Business tier |
+| **[Intel 471](https://intel471.com/)** | Adversary-centric intelligence tracking cybercriminal underground networks, ransomware syndicates, infostealer logs, and actor infrastructure. | Starts at ~$44,200/year (£44,200/license/yr on UK Digital Marketplace; enterprise tiers average $60,000–$120,000/year) | **No permanent core free tier** (free SpiderFoot HX tier with 50 monthly scans); 30-day targeted trial / workshop access for threat hunting teams |
+| **[Flashpoint](https://flashpoint.io/)** | Deep & dark web intelligence, illicit marketplace monitoring, compromised credentials, vulnerability intelligence, and physical security data. | Starts at ~$35,000–$50,000/year for single modules; Ignite Cyber Threat Intel packages on AWS Marketplace list at $80,000–$100,000/year (up to 5,000 users) | **No permanent free tier**; 14-to-30-day Proof-of-Concept (POC) trial available upon sales verification with limited query credits |
+| **[ThreatConnect](https://threatconnect.com/)** | TIP and cyber risk orchestration platform uniting indicator aggregation, analyst investigations, playbook automation, and Cyber Risk Quantification (CRQ). | Starts at ~$25,000–$40,000/year for base CTI analyst tier; full TC Complete enterprise packages average $80,000–$150,000+/year | **No permanent free tier**; 30-day guided evaluation / POC environment available upon sales engagement with capped user seats |
+| **[Cyware](https://www.cyware.com/)** | Collaborative threat exchange (CTIX) and security orchestration platform enabling bi-directional STIX/TAXII threat sharing and automated SecOps enrichment. | Starts at ~$30,000–$45,000/year for base CTIX platform; enterprise packages with orchestration (CSAP/CSOP) range $75,000–$120,000+/year | **No permanent free tier**; 14-to-30-day guided sandbox / POC trial provided upon sales qualification |
+| **[EclecticIQ](https://www.eclecticiq.com/)** | STIX 2.x native intelligence platform featuring analyst workbench, graph-based data fusion, feed normalization, and dissemination into SIEM/EDR. | Starts at ~$35,000–$50,000/year for entry-level deployment; full enterprise instances average $75,000–$140,000/year | **No permanent platform free tier** (free Threat Scout browser extension for observable extraction); 30-day integration test / TIP Bundle trial upon request |
+| **[ThreatQuotient (ThreatQ)](https://www.threatq.com/)** | Threat operations platform and data engine that scores, prioritizes, deduplicates, and operationalizes threat intelligence across SOC workflows. | Starts at ~$30,000–$45,000/year for baseline cloud instance with core integrations; enterprise tiers average $65,000–$110,000+/year without per-feed surcharges | **No permanent free tier**; 14-to-30-day guided Proof of Concept (POC) trial through vendor and partner channels |
 
 
 
